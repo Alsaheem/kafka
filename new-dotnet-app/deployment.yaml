@@ -29,6 +29,7 @@ spec:
               cpu: 100m
   strategy:
     type: Recreate
+
 ---
 
 apiVersion: apps/v1
